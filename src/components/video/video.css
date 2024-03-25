@@ -1,0 +1,37 @@
+.video {
+    margin-top: 245px;
+    width: 1920px;
+    height: 720px;
+    background-image: url(../../img//video_img/video_background_img.png);
+}
+
+.video_text {
+    padding-top: 67px;
+    margin-top: 67px;
+    display: flex;
+    align-items: center;
+    gap: 247px;
+    text-align: left;
+}
+
+.video_text1 {
+    font-weight: 400;
+    font-size: 22px;
+    color: #2F2E30;
+    width: 484px;
+    height: 100px;
+    margin-bottom: 27px;
+}
+
+.about_us {
+    margin-left: 450px;
+    width: 414px;
+    height: 163px;
+    font-weight: 600;
+    font-size: 65px;
+    color: #1B1A1F;
+}
+
+.video img {
+    margin-left: 600px;
+}

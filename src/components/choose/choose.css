@@ -1,0 +1,115 @@
+.choose {
+    margin-top: 208px;
+}
+
+.companies {
+    align-items: center;
+    margin-left: 309px;
+    gap: 88px;
+    display: flex;
+    width: 1277px;
+    height: 52px;
+}
+
+.Tesla {
+    width: 168px;
+    height: 52px;
+}
+
+.DocuSign {
+    width: 137px;
+    height: 52px;
+}
+
+.Maze {
+    width: 156px;
+    height: 52px;
+}
+
+.Uber {
+    width: 79px;
+    height: 52px;
+}
+
+.Miro {
+    width: 105px;
+    height: 52px;
+}
+
+.Discord {
+    width: 187px;
+    height: 36px;
+}
+
+.choose_us {
+    display: flex;
+    align-items: center;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    margin-left: 59px;
+    margin-top: 50px;
+}
+
+.choose_us img {
+    margin-left: 339px;
+    margin-top: 83px;
+    height: 651px;
+    display: flex;
+    align-items: center;
+}
+
+.text1 {
+    color: #1B1A1F;
+    font-weight: 600;
+    font-size: 43px;
+    width: 359px;
+    height: 69px;
+}
+
+.text2 {
+    color: #2F2E30;
+    font-weight: 400;
+    font-size: 23px;
+    width: 517px;
+    height: 108px;
+}
+
+.text3 {
+    font-weight: 600;
+    font-size: 23px;
+    color: #2F2E30;
+    width: 133px;
+    height: 36px;
+    cursor: pointer;
+}
+
+.text3:hover {
+    text-decoration: underline;
+}
+
+.repair_elements {
+    display: flex;
+    width: 1262px;
+    height: 218px;
+    gap: 108px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 340px;
+    margin-top: 63px;
+}
+
+.repair_element {
+    font-weight: 600;
+    font-size: 30px;
+    color: #1B1A1F;
+}
+
+.und {
+    margin-top: 26px;
+    font-weight: 400;
+    font-size: 23px;
+    color: #2F2E30;
+}

@@ -1,0 +1,78 @@
+.advantages {
+    background-color: white;
+    height: 300px;
+    width: 1920px;
+}
+
+.advantages_elements {
+    display: flex;
+    justify-content: center;
+    margin-left: 200px;
+    margin-top: 186px;
+}
+
+.advantage_element {
+    display: flex;
+    align-items: center;
+    width: 335px;
+    height: 80px;
+    margin-right: 182px;
+}
+
+.advantage_element img {
+    margin-right: 20px;
+    height: 72px;
+    width: 72px;
+}
+
+.shipping {
+    padding-bottom: 50px;
+    font-weight: 600;
+    font-size: 27px;
+    width: 203px;
+    height: 41px;
+    color: #081323;
+}
+
+.under_shipping {
+    width: 242px;
+    height: 26px;
+    font-weight: 600;
+    font-size: 17px;
+    color: #828282;
+}
+
+.payment {
+    padding-bottom: 50px;
+    font-weight: 600;
+    font-size: 27px;
+    width: 215px;
+    height: 41px;
+    color: #081323;
+}
+
+.under_payment {
+    width: 242px;
+    height: 26px;
+    font-weight: 600;
+    font-size: 17px;
+    color: #828282;
+}
+
+.support {
+    padding-bottom: 50px;
+    font-weight: 600;
+    font-size: 27px;
+    width: 182px;
+    height: 41px;
+    color: #081323;
+}
+
+.under_support {
+    width: 242px;
+    height: 26px;
+    font-weight: 600;
+    font-size: 17px;
+    color: #828282;
+}
+

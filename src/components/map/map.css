@@ -1,0 +1,75 @@
+.MapContainer {
+    display: flex;
+    margin-top: 285px;
+    margin-left: 320px;
+    height: 677px;
+    width: 1280px;
+    border-radius: 20px;
+}
+
+.mapp {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.map_element {
+    border-radius: 20px;
+    z-index: 1000;
+    margin-top: -250px;
+    margin-left: 370px;
+    background-color: white;
+    width: 1194px;
+    height: 200px;
+    position: absolute;
+}
+
+.up_element {
+    width: 427px;
+    height: 40px;
+    font-weight: 600;
+    font-size: 36px;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.und_element {
+    margin-left: 40px;
+    width: 540px;
+    height: 56px;
+    position: absolute;
+    font-weight: 400;
+    font-size: 16px;
+    color: #555555;
+    margin-top: 20px;
+}
+
+.form {
+    border-radius: 40px;
+    padding: 10px 10px 10px 20px;
+    width: 290px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    margin-left: 700px;
+    margin-top: 0px;
+    background-color: #FAFAFA;
+}
+
+.input {
+    background-color: #FAFAFA;
+    margin-right: 10px;
+    border-radius: 30px;
+}
+
+.form button {
+    color: white;
+    width: 100px;
+    border-radius: 20px;
+    height: 50px;
+}
+
+.button {
+    background-color: #050038;
+}
+

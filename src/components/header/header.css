@@ -1,0 +1,86 @@
+.App {
+    font-family: "Poppins", sans-serif;
+    background-color: white;
+    width: 1920px;
+}
+
+.site-header {
+    border-bottom: 1px solid white;
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    height: 100px;
+    align-items: center;
+    background-image: url(../../img/header_img/Darker_Pelican.png);
+}
+
+.header-text a {
+    margin-right: 70px;
+    color: white;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.hImg {
+    position: absolute;
+    margin-left: 1600px;
+}
+
+.hImg img {
+    padding-right: 26px;
+}
+
+.intro {
+    height: 1080px;
+    width: 1920px;
+    background-image: url(../../img/header_img/pelican.png);
+}
+
+.introUnder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 980px;
+    width: 1920px;
+    background-image: url(../../img/header_img/Darker_Pelican.png);
+}
+
+.weBuild {
+    font-weight: 500;
+    font-size: 30px;
+    height: 44px;
+    width: 1026px;
+    color: white;
+}
+
+.sky {
+    font-weight: 700;
+    font-size: 200px;
+    width: 967px;
+    height: 224px;
+    color: white;
+}
+
+.shopButton {
+    color: white;
+    font-size: 21px;
+    font-weight: 600;
+    background-color: #EB4C56;
+    width: 204px;
+    height: 77px;
+    padding: 16.12px, 42.98px, 16.12px, 42.98px;
+}
+
+.vector1 {
+    position: absolute;
+    margin: 0px 1774px 30px 0px;
+}
+
+.vector2 {
+    position: absolute;
+    margin: 890px 0px 0px 1580px;
+}
+
+
+

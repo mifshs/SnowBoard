@@ -1,0 +1,27 @@
+.catalog_text {
+    display: flex;
+    align-items: center;
+    margin-left: 280px;
+    font-weight: 600;
+    font-size: 55px;
+    width: 854px;
+    height: 154px;
+    color: #1B1A1F;
+}
+
+.catalog_up {
+    margin-left: 280px;
+    display: flex;
+    align-items: center;
+    width: 196px;
+    height: 30px;
+    color: #EB4C56;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.catalog_up img {
+    color: #E36F2D;
+    margin-right: 19px;
+    width: 89px;
+}

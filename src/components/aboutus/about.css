@@ -1,0 +1,52 @@
+.big {
+    width: 193px;
+    height: 43px;
+    font-weight: 600;
+    font-size: 42px;
+    color: #111010;
+    margin-bottom: 30px;
+}
+
+.micro {
+    width: 535px;
+    height: 123px;
+    font-weight: 600;
+    font-size: 17px;
+    color: #616161;
+    margin-bottom: 10px;
+}
+
+.img_aboutt img {
+    position: absolute;
+    width: 928px;
+    height: 618px;
+}
+
+.text_abouut {
+    padding: 50px 50px 50px 50px;
+    z-index: 10000;
+    position: absolute;
+    margin-top: 120px;
+    margin-left: -200px;
+    background-color: #F7F7F7;
+    height: 352px;
+}
+
+.aboutt {
+    display: flex;
+    height: 900px;
+    width: 1000px;
+    margin-top: 120px;
+    margin-left: 550px;
+}
+
+.buuutton {
+    background-color: #111010;
+}
+
+.text_abouut button {
+    background-color: #111010;
+    color: white;
+    width: 157px;
+    height: 45px;
+}

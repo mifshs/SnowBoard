@@ -1,0 +1,143 @@
+.explore {
+    width: 1920px;
+    height: 1494px;
+    background-image: url(../../img/explore_img/explore_background.png);
+}
+
+.explore1 {
+    position: absolute;
+    margin-top: 45px;
+    display: flex;
+    align-items: center;
+}
+
+.explore_imgs p {
+    color: #1B1A1F;
+    text-decoration: none;
+}
+
+.explore_text {
+    margin-left: 400px;
+    width: 470px;
+    height: 163px;
+    font-weight: 600;
+    font-size: 65px;
+    color: #1B1A1F;
+}
+
+.explore_text1 {
+    margin-left: 200px;
+    width: 483px;
+    height: 100px;
+    font-weight: 400;
+    font-size: 22px;
+    color: #2F2E30;
+}
+
+.explore_imgs {
+    width: 1920px;
+    height: 1494px;
+    display: flex;
+    margin-left: 380px;
+    padding-top: 250px;
+}
+
+
+.explore_img1 {
+    width: 554px;
+    height: 395px;
+}
+
+.explore_img2 {
+    width: 805px;
+    height: 731px;
+    margin-left: 56px;
+}
+
+.explore_img3 {
+    position: absolute;
+    margin-top: 430px;
+    width: 607px;
+    height: 566px;
+}
+
+.explore_arrow1 {
+    z-index: 100;
+    position: absolute;
+    margin-top: -360px;
+    margin-left: 490px;
+}
+
+.explore_arrow2 {
+    z-index: 100;
+    position: absolute;
+    margin-top: -715px;
+    margin-left: 770px;
+}
+
+.explore_arrow3 {
+    z-index: 100;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: -30px;
+}
+
+.explore_img1_text {
+    position: absolute;
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: -60px;
+    margin-left: 50px;
+}
+
+.explore_img1_text1 {
+    position: absolute;
+    font-weight: 400;
+    font-size: 25px;
+    margin-top: -60px;
+    margin-left: 330px;
+}
+
+.explore_img2_text {
+    position: absolute;
+    font-weight: 600;
+    font-size: 26px;
+    margin-top: -60px;
+    margin-left: 35px;
+}
+
+.explore_img2_text1 {
+    position: absolute;
+    font-weight: 400;
+    font-size: 25px;
+    margin-top: -60px;
+    margin-left: 560px;
+}
+
+.explore_img3_text {
+    font-weight: 600;
+    font-size: 35px;
+    margin-top: -60px;
+    margin-left: 30px;
+}
+
+.explore_img3_text1 {
+    position: absolute;
+    font-weight: 400;
+    font-size: 22px;
+    margin-top: -75px;
+    margin-left: 30px;
+}
+
+.explore_button {
+    position: absolute;
+    width: 238px;
+    height: 59px;
+    background-color: #EB4C56;
+    font-weight: 600;
+    font-size: 18px;
+    color: white;
+    justify-content: center;
+    margin-left: 1550px;
+    margin-top: -250px;
+}

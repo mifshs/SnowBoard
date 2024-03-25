@@ -1,0 +1,36 @@
+.App {
+    font-family: "Poppins", sans-serif;
+    background-color: white;
+}
+
+.site-header1 {
+    font-family: "Poppins", sans-serif;
+    border-bottom: 1px solid red;
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    height: 100px;
+    align-items: center;
+}
+
+.header-text1 a {
+    margin-right: 70px;
+    color: red;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.hImg1 {
+    position: absolute;
+    margin-left: 1600px;
+}
+
+.hImg1 img {
+    padding-right: 26px;
+}
+
+
+
+
+
+

@@ -1,0 +1,50 @@
+.gallery {
+    margin-top: 289px;
+    margin-bottom: 230px;
+    width: 1920px;
+    height: 1009px;
+    background-image: url(../../img/gallery_img/gallery_background.png);
+}
+
+.gallery1 {
+    position: absolute;
+    margin-top: 120px;
+}
+
+.gallery_text {
+    margin-top: 30px;
+    margin-left: 456px;
+    font-weight: 600;
+    font-size: 55px;
+    height: 77px;
+    color: #1B1A1F;
+}
+
+.gallery_img1 {
+    margin-bottom: 180px;
+    width: 432px;
+    height: 648px;
+}
+
+.gallery_img2 {
+    margin-left: 29px;
+    margin-bottom: 750px;
+    width: 571px;
+    height: 381px;
+}
+
+.gallery_img3 {
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 460px;
+    width: 571px;
+    height: 381px;
+}
+
+.gallery_imgs {
+    display: flex;
+    align-items: center;
+    width: 1920px;
+    height: 1009px;
+    margin-left: 456px;
+}
